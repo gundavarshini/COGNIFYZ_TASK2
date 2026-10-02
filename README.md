@@ -251,7 +251,7 @@ Through this task, I gained practical experience in:
 
 Screenshots
 Home / Registration Page
-<img width="798" height="667" alt="image" src="https://github.com/user-attachments/assets/6c1fc187-11b9-4a9d-96ed-4c95f2fbb2bf" />
+<img width="761" height="672" alt="image" src="https://github.com/user-attachments/assets/aa9c8ca0-6988-4c52-8845-bcefca0f768d" />
 <img width="794" height="590" alt="image" src="https://github.com/user-attachments/assets/3ee8fd1a-84fc-4ad2-a0aa-fbc92c9637e0" />
 
 
