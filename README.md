@@ -289,7 +289,9 @@ The application can be further enhanced by adding:
 Organization: Cognifyz Technologies
 
 Program: Full Stack Development Internship
+
 Level: Level 1 - Beginner
+
 Task: Task 2 - Inline Styles, Basic Interaction, and Server-Side Validation
 
 Author
