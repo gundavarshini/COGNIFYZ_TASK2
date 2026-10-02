@@ -117,6 +117,7 @@ EJS is used to dynamically generate the response page based on the submitted and
                                |
                                v
                          Result Page
+
                          
 Project Structure
 
@@ -152,7 +153,7 @@ File Description
 | `README.md`         | Project documentation                         |
 
 
-Validation Process
+##Validation Process
 
 The application uses two levels of validation.
 
@@ -205,13 +206,21 @@ http://localhost:3000
 Example Application Flow
 
 ->Open the application in a web browser.
+
 ->Enter the required information in the form.
+
 ->Click the Submit button.
+
 ->JavaScript performs client-side validation.
+
 ->If valid, the data is sent to the Express.js server.
+
 ->The server performs server-side validation.
+
 ->Valid data is temporarily stored.
+
 ->EJS dynamically generates the response page.
+
 ->The submitted information is displayed to the user.
 
 Learning Outcomes
@@ -219,15 +228,25 @@ Learning Outcomes
 Through this task, I gained practical experience in:
 
 ->Creating advanced HTML forms.
+
 ->Applying inline CSS styles.
+
 ->Implementing JavaScript-based client-side validation.
+
 ->Understanding server-side validation.
+
 ->Handling form submissions using Express.js.
+
 ->Creating Express.js routes.
+
 ->Processing HTTP POST requests.
+
 ->Using EJS for dynamic server-side rendering.
+
 ->Temporarily storing data on the server.
+
 ->Understanding frontend and backend interaction.
+
 ->Improving user experience through validation and feedback.
 
 Screenshots
@@ -246,15 +265,25 @@ Future Enhancements
 The application can be further enhanced by adding:
 
 1.Database integration using MySQL or MongoDB.
+
 2.User authentication and authorization.
+
 3.Password encryption.
+
 4.Improved responsive design.
+
 5.REST API integration.
+
 6.Permanent data storage.
+
 7.Advanced form validation.
+
 8.Better error handling.
+
 9.Session management.
+
 10.Improved UI/UX.
+
 11.Internship Details
 
 Organization: Cognifyz Technologies
